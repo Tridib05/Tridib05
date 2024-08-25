@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **pen Source Projects || Web Development || Machine Learning & AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tridib05](https://github.com/Tridib05)
- <img alt="animation"  position="left" width="400"  src="https://media.tenor.com/KMFQut1j8KwAAAAM/scaler-create-impact.gif">
+ <img alt="animation"  align="right" width="400"  src="https://raw.githubusercontent.com/imakshath/imakshath/master/1%20IRGHmiGsa16stedQvIaZfw.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
