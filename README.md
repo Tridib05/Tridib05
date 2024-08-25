@@ -1,12 +1,7 @@
 <img alt="2.png" src="https://github.com/Tridib05/Tridib05/blob/main/2.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 <h1 align="center">Hi 👋, I'm Tridib Bhunia</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tridib05&" alt="tridib05" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tridib05&label=Profile%20views&color=0e75b6&style=flat" alt="tridib05" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tridib05" alt="tridib05" /></a> </p>
-
+<img src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&amp;v=beta&amp;t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo" jsaction="" align="right" class="sFlh5c FyHeAf iPVvYb" style="max-width: 400px; height: 300px; margin: 0px; width: 390px;" alt="Optimizing Platform Performance: Insights from a Senior Soft" jsname="kn3ccd">
 - 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **pen Source Projects || Web Development || Machine Learning & AI**
