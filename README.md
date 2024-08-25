@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **pen Source Projects || Web Development || Machine Learning & AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tridib05](https://github.com/Tridib05)
-<img src="https://media.tenor.com/KMFQut1j8KwAAAAM/scaler-create-impact.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 220px; height: 165px; margin: 8.5px 0px; width: 220px;" alt="Software Engineering GIFs | Tenor" jsname="kn3ccd">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tridib bhunia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tridib bhunia" height="30" width="40" /></a>
