@@ -1,7 +1,7 @@
 ![logo](https://raw.githubusercontent.com/Tridib05/Tridib05/1691f1fe9190a3066a4ff1c8f140de1798f12413/2.png)
 <h1 align="center">Hi 👋, I'm Tridib Bhunia</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img alt="animation"  align="right" width="400"  src="https://raw.githubusercontent.com/imakshath/imakshath/master/1%20IRGHmiGsa16stedQvIaZfw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tridib05&label=Profile%20views&color=0e75b6&style=flat" alt="tridib05" /> </p>
 
 - 🌱 I’m currently learning **Backend Development**
@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **pen Source Projects || Web Development || Machine Learning & AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tridib05](https://github.com/Tridib05)
- <img alt="animation"  align="right" width="400"  src="https://raw.githubusercontent.com/imakshath/imakshath/master/1%20IRGHmiGsa16stedQvIaZfw.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
