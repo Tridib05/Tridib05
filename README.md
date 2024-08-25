@@ -1,4 +1,4 @@
-!logo(https://github.com/Tridib05/Tridib05/blob/main/2.png?raw=true)
+<img alt="2.png" src="https://github.com/Tridib05/Tridib05/blob/main/2.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 <h1 align="center">Hi 👋, I'm Tridib Bhunia</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tridib05&" alt="tridib05" /></p>
