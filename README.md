@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://raw.githubusercontent.com/Tridib05/Tridib05/1691f1fe9190a3066a4ff1c8f140de1798f12413/2.png)
 <h1 align="center">Hi 👋, I'm Tridib Bhunia</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
